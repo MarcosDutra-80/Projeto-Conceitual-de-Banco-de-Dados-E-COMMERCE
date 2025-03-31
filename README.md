@@ -1,6 +1,6 @@
 # Projeto Conceitual: Modelagem de Banco de Dados para um E-commerce
 - Descrição do Projeto
-  - MEste projeto tem como objetivo criar um modelo de banco de dados conceitual utilizando a modelagem Entidade-Relacionamento Estendida (EER) para um sistema de e-commerce. O modelo visa representar de forma estruturada as principais entidades e seus relacionamentos, garantindo a integridade e a eficácia dos dados.
+  - Este projeto tem como objetivo criar um modelo de banco de dados conceitual utilizando a modelagem Entidade-Relacionamento Estendida (EER) para um sistema de e-commerce. O modelo visa representar de forma estruturada as principais entidades e seus relacionamentos, garantindo a integridade e a eficácia dos dados.
 - Modelagem EER
   - A modelagem EER foi desenvolvida para abranger as principais funcionalidades de um e-commerce, incluindo:
     - Cliente: Representa os usuários cadastrados na plataforma.
